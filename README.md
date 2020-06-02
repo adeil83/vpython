@@ -1,3 +1,6 @@
 # vpython
 
-https://hub.gke.mybinder.org/user/adeil83-vpython-bmyak4xa/tree
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adeil83/vpython/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/adeil83/vpython/master
